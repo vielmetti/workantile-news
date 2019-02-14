@@ -21,10 +21,15 @@ food from Ahmo's (falafel and a green salad).
 Tom talked through the current state of Workantile
 membership and finances. He notes that we are
 essentially at break-even. A year ago we had
-69 member - 39 full, 23 affiliate, and 7 supporting.
+69 members - 39 full, 23 affiliate, and 7 supporting.
 This year at the same time we have 37 full, 19 
-affiliate, and 6 supporting. His goal is to pick
+affiliate, and 6 supporting. Our shared goal is to pick
 up three more full members.
+
+Plans to convert the organization from an LLC to a 501(c)3
+are stalled pending membership numbers, and pending positive
+changes to cash flow to allow the organization to pay off the
+last of its debts.
 
 We discussed a variety of marketing strategies
 and tactics to help with the membership roll,
@@ -40,17 +45,14 @@ Thanks to Claire for scheduling and rescheduling
 the food delivery, and to Tom for running the meeting.
 
 ## Upcoming events
-- Board game night Feb 21
-- Town Hall March TBD
-- Craft night? TBD
-
-Please check the Workantile calendar for other events.
 
 * Board game night: Feb 21
 * Paczki Day: March 5, details TBD. 
 * Town Hall: March TBD
 * Pi Day: March 14 (3.14). Bring pies to share, details TBD.
 * Craft night? TBD
+
+Please check the Workantile calendar for other events.
 
 A reminder that coffee orders are due Mondays by end of
 day; contact Cory or post to #coffee_orders to get your
@@ -87,7 +89,7 @@ your commute choices.
 
 If you run into issues with the `Workantile`
 access point, use the `Workantile 2G` SSID
-and notify the #internet-war-room channel.
+and notify the `#internet-war-room` channel.
 Rebooting the loft access point 5 Ghz radio
 causes it to auto-select a channel, which allows
 it to switch channels if there is congestion.
