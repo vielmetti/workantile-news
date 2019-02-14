@@ -77,9 +77,11 @@ got certificates for drinks at Sweetwaters. Sam
 was randomly selected to win a $20 Sava's gift card 
 for his winter commute related haiku posted to Twitter.
 
-> wind speed tops bike speed 
-> while velocity tops temp 
-> achievement unlocked 🏆
+```
+wind speed tops bike speed 
+while velocity tops temp 
+achievement unlocked 🏆
+```
 
 The next challenge is the "Commuter Challenge" in May,
 which follows the same general format of logging
