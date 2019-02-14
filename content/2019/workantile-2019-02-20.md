@@ -3,6 +3,12 @@ title: Workantile News for Feb 20, 2019
 ---
 # Workantile News for Feb 20, 2019
 
+News from [Workantile](http://www.workantile.com), 
+a coworking community for independent workers in the heart of downtown Ann Arbor.
+
+This issue written by Ed Vielmetti and
+edited by Chris Salzman.
+
 ### In this issue:
 
 * Town Hall notes from 13 Feb 2019
@@ -38,8 +44,8 @@ to people during their trial days, and outreach
 to news media regarding the Workantile tenth
 anniversary in June.
 
-The next Town Hall will be scheduled for Wednesday,
-March TBD.
+The next Town Hall will be scheduled for a Wednesday
+in March, with the exact date to be determined.
 
 Thanks to Claire for scheduling and rescheduling
 the food delivery, and to Tom for running the meeting.
@@ -52,7 +58,7 @@ the food delivery, and to Tom for running the meeting.
 * Pi Day: March 14 (3.14). Bring pies to share, details TBD.
 * Craft night? TBD
 
-Please check the Workantile calendar for other events.
+Please check the [Workantile calendar](http://workantile.com/calendar/) for other events.
 
 A reminder that coffee orders are due Mondays by end of
 day; contact Cory or post to #coffee_orders to get your
@@ -77,9 +83,11 @@ got certificates for drinks at Sweetwaters. Sam
 was randomly selected to win a $20 Sava's gift card 
 for his winter commute related haiku posted to Twitter.
 
-> wind speed tops bike speed 
-> while velocity tops temp 
-> achievement unlocked 🏆
+```
+wind speed tops bike speed 
+while velocity tops temp 
+achievement unlocked 🏆
+```
 
 The next challenge is the "Commuter Challenge" in May,
 which follows the same general format of logging
@@ -94,3 +102,7 @@ Rebooting the loft access point 5 Ghz radio
 causes it to auto-select a channel, which allows
 it to switch channels if there is congestion.
 
+## About this edition
+
+Written by Ed Vielmetti with Github and vim. Edited
+by Chris Salzman with Bear.app. 
