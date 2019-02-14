@@ -6,8 +6,8 @@ title: Workantile News for Feb 20, 2019
 News from [Workantile](http://www.workantile.com), 
 a coworking community for independent workers in the heart of downtown Ann Arbor.
 
-This issue written by Ed Vielmetti and
-edited by Chris Salzman.
+This issue written by Ed and
+edited by Chris.
 
 ### In this issue:
 
@@ -104,5 +104,5 @@ it to switch channels if there is congestion.
 
 ## About this edition
 
-Written by Ed Vielmetti with Github and vim. Edited
-by Chris Salzman with Bear.app. 
+Written by Ed with Github and vim. Edited
+by Chris with Bear.app. 
