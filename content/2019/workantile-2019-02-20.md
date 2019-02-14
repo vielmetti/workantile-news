@@ -105,4 +105,4 @@ it to switch channels if there is congestion.
 ## About this edition
 
 Written by Ed with Github and vim. 
-Lighted edited by Chris in Github.
+Lightly edited by Chris in Github.
